@@ -20,6 +20,13 @@ The frontend will be available at http://localhost:5173 (or another port if spec
 
 
 ⚙️ Backend Setup
+.env Variables
+PORT=5000
+MONGO_URI=set mongodb url here
+JWT_SECRET=saadwicks
+
+
+
 The backend is built with Node.js and uses Express.
 
 📍Steps to Run Backend Locally:
